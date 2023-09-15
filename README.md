@@ -26,4 +26,5 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTOMAS-D&layout=compact&theme=dark" alt="42 Badge"/>
   </a>
 </div>
+<h2>LINKS :</h2>
 <a href= "https://www.linkedin.com/in/henrique-tom%C3%A1s-da-silva-bb9477b8/""_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
