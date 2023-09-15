@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>STATS :</h2>
 <div id="stats" align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=HTOMAS-D&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="LinkedIn Badge"/>
