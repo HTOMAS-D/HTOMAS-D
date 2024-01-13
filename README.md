@@ -29,4 +29,3 @@ Here are some ideas to get you started:
 <h2>LINKS :</h2>
 <a href= "https://www.linkedin.com/in/henrique-tom%C3%A1s-da-silva-bb9477b8/""_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
-  
