@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>STATS :</h2>
-[![htomas-d's 42 stats](https://badge.mediaplus.ma/starryblue/htomas-d?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 <div id="stats" align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=HTOMAS-D&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="LinkedIn Badge"/>
