@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henrique</h1>
 <h3 align="center">Junior IT Manager @42Lisboa</h3>
+<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/htomas-d?1337Badge=off&UM6P=off" alt="htomas-d's 42 stats" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htomas-d&label=Profile%20views&color=0e75b6&style=flat" alt="htomas-d" /> </p>
 
@@ -18,5 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=htomas-d&show_icons=true&locale=en" alt="htomas-d" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=htomas-d&" alt="htomas-d" /></p>
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/htomas-d?1337Badge=off&UM6P=off" alt="htomas-d's 42 stats" /></a>
