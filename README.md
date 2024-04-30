@@ -2,7 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 
 <p>Junior IT Manager @42Lisboa</p>
+<div align="center">
 <a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/htomas-d?1337Badge=off&UM6P=off" alt="htomas-d's 42 stats" /></a>
+</div>
 
 ### Skills
 
