@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h2>STATS :</h2>
 
 <div id="stats" align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/htomas-d?1337Badge=off&UM6P=off" alt="htomas-d's 42 stats" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/htomas-d?1337Badge=off&UM6P=off" alt="htomas-d's 42 stats" /></a>
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTOMAS-D&layout=compact&theme=dark" alt="42 Badge"/>
   </a>
 </div>
