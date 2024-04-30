@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 
 Junior IT Manager @42Lisboa
----------------------------
+<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/htomas-d?1337Badge=off&UM6P=off" alt="htomas-d's 42 stats" /></a>
 
 ### Skills
 
@@ -27,4 +27,3 @@ Junior IT Manager @42Lisboa
 <a href="http://www.github.com/htomas-d"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=htomas-d&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/htomas-d" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htomas-d&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/htomas-d?1337Badge=off&UM6P=off" alt="htomas-d's 42 stats" /></a>
