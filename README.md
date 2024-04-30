@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Henrique
 ================================================================================================================================
 <div align="center">
-<p><h1>Junior IT Manager @42Lisboa</h1></p>
+<p><h2>Junior IT Manager @42Lisboa</h2></p>
 
 <a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/htomas-d?1337Badge=off&UM6P=off" alt="htomas-d's 42 stats" /></a>
 </div>
