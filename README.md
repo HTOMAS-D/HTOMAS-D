@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>STATS :</h2>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/htomas-d?1337Badge=off&UM6P=off" alt="htomas-d's 42 stats" /></a>
+
 <div id="stats" align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/htomas-d?1337Badge=off&UM6P=off" alt="htomas-d's 42 stats" /></a>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=HTOMAS-D&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="LinkedIn Badge"/>
   </a>
