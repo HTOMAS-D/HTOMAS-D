@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=htomas-d&" alt="htomas-d" /></p>
 
-<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/htomas-d?1337Badge=off&UM6P=off" alt="htomas-d's 42 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/htomas-d?1337Badge=off&UM6P=off" alt="htomas-d's 42 stats" /></a>
